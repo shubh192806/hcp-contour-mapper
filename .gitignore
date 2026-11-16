@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+backend/hcp_mapper.db
+backend/uploads/
+.venv/
+venv/
+
+# Node
+node_modules/
+frontend/dist/
+npm-debug.log*
+frontend/.env
+frontend/.env.local
+
+# OS
+.DS_Store
+
+# Editors
+.vscode/
+.idea/
